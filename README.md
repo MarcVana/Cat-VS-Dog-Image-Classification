@@ -4,4 +4,4 @@ The model takes an image as an input and determines whether the image contains a
 There is a simple GUI made with Tkinter.
 The answer will contain the class of the image (dog/cat) and the percentage.
 ------------------------------------------------------------------------------------------------------------------------------------
-The model is built with Tensorflow GPU 2.x.
+The model is built with Keras, Tensorflow GPU 2.x.
